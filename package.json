@@ -1,0 +1,29 @@
+{
+  "name": "bloomingdancepartycheat",
+  "version": "1.0.0",
+  "description": "블루밍 댄스 파티 치트",
+  "main": "index.html",
+  "scripts": {
+    "prebuild": "rm -rf build && mkdir build",
+    "build": "cp -r ./src/assets ./build/assets && cp ./src/script.js ./build/script.js && cp ./src/index.html ./build/index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkTornado/BloomingDancePartyCheat.git"
+  },
+  "keywords": [
+    "블루밍댄스",
+    "치트"
+  ],
+  "author": "Dark Tornado",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/DarkTornado/BloomingDancePartyCheat/issues"
+  },
+  "homepage": "https://darktornado.github.io/BloomingDancePartyCheat",
+  "dependencies": {
+    "gh-pages": "^3.2.0"
+  }
+}
