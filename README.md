@@ -11,6 +11,7 @@
 
 ### 모야 나도 컨닝할래요!
 * [여기](https://darktornado.develope.kr/maple/arrowlog/)에서 할 수 있어요.
+* [여기](https://darktornado.github.io/BloomingDancePartyCheat/)에서도 할 수 있어요.
 
 ### 라이선스
 * [BSD-3-Clause License](LICENSE)
