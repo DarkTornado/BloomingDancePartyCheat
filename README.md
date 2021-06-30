@@ -10,8 +10,7 @@
 * 10개가 되는 키들을 일일이 외우는 것은 귀찮기 때문에, 방향키를 누르면 그 화면에 띄워두는 사이트를 만든거에요.
 
 ### 모야 나도 컨닝할래요!
-* [여기](https://darktornado.develope.kr/maple/arrowlog/)에서 할 수 있어요.
-* [여기](https://darktornado.github.io/BloomingDancePartyCheat/)에서도 할 수 있어요.
+* [여기](https://darktornado.github.io/BloomingDancePartyCheat/)에서 할 수 있어요.
 
 ### 라이선스
 * [BSD-3-Clause License](LICENSE)
